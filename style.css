@@ -36,9 +36,28 @@ form input{
     background-color: rgba(0,0,0,0.4);
 
 }
+.part1 .box a{
+    color: #96e7ff;
+    font-size: 14px;
+    display: inline-block;
+    width: 14%;
+    height: 35px;
+    line-height: 35px;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    margin: 10px 1%;
+    text-align: center;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+}
+.part1 .box .sample{
+    box-shadow: 1px 1px 5px #ccc5c5;
+}
 .part1_heading{
     font-family: 宋体;
-    font-size: 50px;
+    font-size: 30px;
     background-color: #ff2a34;
 }
 .box{
@@ -71,14 +90,33 @@ li{
 .part2{
     margin: 0 auto;
     width: 60%;
-    height: 200px;
+    height: 300px;
     background-color: rgba(0,0,0,0.4);
 }
 .part2_heading{
     font-family: 宋体;
-    font-size: 50px;
+    font-size: 30px;
     background-color: #ff2a34;
 
+}
+.part2 .box a{
+    color: #96e7ff;
+    font-size: 14px;
+    display: inline-block;
+    width: 14%;
+    height: 35px;
+    line-height: 35px;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    margin: 10px 1%;
+    text-align: center;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+}
+.part2 .box .sample{
+    box-shadow: 1px 1px 5px #ccc5c5;
 }
 .part3{
     margin: 0 auto;
@@ -89,8 +127,27 @@ li{
 }
 .part3_heading{
     font-family: 宋体;
-    font-size: 50px;
+    font-size: 30px;
     background-color: #ff2a34;
+}
+.part3 .box a{
+    color: #96e7ff;
+    font-size: 14px;
+    display: inline-block;
+    width: 14%;
+    height: 35px;
+    line-height: 35px;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    margin: 10px 1%;
+    text-align: center;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+}
+.part3 .box .sample{
+    box-shadow: 1px 1px 5px #ccc5c5;
 }
 .foot{
     padding-top: 20px;
